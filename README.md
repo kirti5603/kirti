@@ -6,12 +6,12 @@ I'm passionate about Instrumentation and Control, and I love working on projects
 ## Projects
 Here are some of the projects I've worked on:
 
-### Project 1: [line follower]
+### Project 1: line follower
 - **Description:** Developed a line follower robot that uses sensors to detect and follow a predefined path. The robot adjusts its movements based on the path's line, demonstrating efficient real-time path-following capabilities.
 - **Technologies Used:** Microcontrollers, sensors, motor drivers, and programming languages such as C/C++.]
 
 
-### Project 2: [Remote Control, Voice Control, and Obstacle Avoidance Car]
+### Project 2: Remote Control, Voice Control, and Obstacle Avoidance Car
 - **Description:** Designed and built a multifunctional car capable of being controlled remotely, via voice commands, and autonomously avoiding obstacles. The car integrates various control systems to demonstrate flexibility and advanced navigation capabilities.
 - **Technologies Used:** Microcontrollers, Bluetooth modules, voice recognition modules, ultrasonic sensors, motor drivers, and programming languages such as C/C++.
 
@@ -27,7 +27,9 @@ Here are some of the projects I've worked on:
 - Training Program Coordination
 - Industry Connection Building
 - Event Management
-- Communication and Career Counseling
+- openai
+- python
+- plc programming
 
 ## Contact Me
 - [Email](mailto:fatakkc21.instru@coeptech.ac.in)
